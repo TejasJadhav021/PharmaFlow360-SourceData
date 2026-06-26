@@ -1,0 +1,106 @@
+DOCTOR_ID,DOCTOR_NAME,SPECIALIZATION,PRESCRIBES_CAT,HOSPITAL,CITY,REGION,REGISTRATION_NO,IS_ACTIVE,EFFECTIVE_FROM,EFFECTIVE_TO,IS_CURRENT,SCD_VERSION
+DOC-0001,Dr. Pooja Kapoor,Cardiologist,Cardiology,Columbia Asia Hospital,Bihar,East,MCI-30289,Y,2024-01-01,9999-12-31,Y,1
+DOC-0002,Dr. Priya Das,Cardiologist,Cardiology,AIIMS Hospital,Andhra Pradesh,South,MCI-81066,Y,2024-01-01,9999-12-31,Y,1
+DOC-0003,Dr. Priya Das,Cardiologist,Cardiology,Apollo Hospital,Haryana,North,MCI-72493,Y,2024-01-01,9999-12-31,Y,1
+DOC-0004,Dr. Priya Malhotra,Cardiologist,Cardiology,Medanta Hospital,Telangana,Central,MCI-20500,Y,2024-01-01,9999-12-31,Y,1
+DOC-0005,Dr. Amit Shah,Cardiologist,Cardiology,Kokilaben Hospital,Tamil Nadu,South,MCI-62923,Y,2024-01-01,9999-12-31,Y,1
+DOC-0006,Dr. Lata Patel,Cardiologist,Cardiology,Kokilaben Hospital,UP,North,MCI-91183,Y,2024-01-01,9999-12-31,Y,1
+DOC-0007,Dr. Dinesh Malhotra,Cardiologist,Cardiology,Kokilaben Hospital,Punjab,North,MCI-51467,Y,2024-01-01,9999-12-31,Y,1
+DOC-0008,Dr. Kavita Verma,Cardiologist,Cardiology,Manipal Hospital,Gujarat,West,MCI-61876,Y,2024-01-01,9999-12-31,Y,1
+DOC-0009,Dr. Arun Singh,Cardiologist,Cardiology,Narayana Hospital,Andhra Pradesh,South,MCI-11220,Y,2024-01-01,9999-12-31,Y,1
+DOC-0010,Dr. Pooja Mehta,Cardiologist,Cardiology,Fortis Hospital,West Bengal,East,MCI-76307,Y,2024-01-01,9999-12-31,Y,1
+DOC-0011,Dr. Amit Shah,Diabetologist,Diabetes,Manipal Hospital,Gujarat,West,MCI-58434,Y,2024-01-01,9999-12-31,Y,1
+DOC-0012,Dr. Pooja Nair,Diabetologist,Diabetes,Narayana Hospital,Gujarat,West,MCI-90173,Y,2024-01-01,9999-12-31,Y,1
+DOC-0013,Dr. Meena Kumar,Diabetologist,Diabetes,Care Hospital,MP,Central,MCI-27601,Y,2024-01-01,9999-12-31,Y,1
+DOC-0014,Dr. Pooja Gupta,Diabetologist,Diabetes,Fortis Hospital,Maharashtra,West,MCI-45697,Y,2024-01-01,9999-12-31,Y,1
+DOC-0015,Dr. Sanjay Verma,Diabetologist,Diabetes,Manipal Hospital,Gujarat,West,MCI-76244,Y,2024-01-01,2025-12-31,N,1
+DOC-0016,Dr. Amit Pillai,Diabetologist,Diabetes,Apollo Hospital,Bihar,East,MCI-46265,Y,2024-01-01,9999-12-31,Y,1
+DOC-0017,Dr. Vikram Verma,Diabetologist,Diabetes,Manipal Hospital,Delhi,North,MCI-31178,Y,2024-01-01,9999-12-31,Y,1
+DOC-0018,Dr. Rajesh Kumar,Diabetologist,Diabetes,Care Hospital,Jharkhand,East,MCI-19862,Y,2024-01-01,9999-12-31,Y,1
+DOC-0019,Dr. Dinesh Bose,Diabetologist,Diabetes,Manipal Hospital,Tamil Nadu,South,MCI-29410,Y,2024-01-01,9999-12-31,Y,1
+DOC-0020,Dr. Meena Rao,Diabetologist,Diabetes,Apollo Hospital,Odisha,East,MCI-15229,Y,2024-01-01,9999-12-31,Y,1
+DOC-0021,Dr. Sunita Rao,Pulmonologist,Respiratory,AIIMS Hospital,Gujarat,West,MCI-83385,Y,2024-01-01,9999-12-31,Y,1
+DOC-0022,Dr. Neha Joshi,Pulmonologist,Respiratory,AIIMS Hospital,Odisha,East,MCI-64040,Y,2024-01-01,9999-12-31,Y,1
+DOC-0023,Dr. Asha Shah,Pulmonologist,Respiratory,Manipal Hospital,UP,North,MCI-44970,Y,2024-01-01,9999-12-31,Y,1
+DOC-0024,Dr. Priya Kapoor,Pulmonologist,Respiratory,Columbia Asia Hospital,Tamil Nadu,South,MCI-39154,Y,2024-01-01,9999-12-31,Y,1
+DOC-0025,Dr. Meena Shah,Pulmonologist,Respiratory,Manipal Hospital,Kerala,South,MCI-39219,Y,2024-01-01,9999-12-31,Y,1
+DOC-0026,Dr. Arun Verma,Pulmonologist,Respiratory,Columbia Asia Hospital,UP,North,MCI-19099,Y,2024-01-01,9999-12-31,Y,1
+DOC-0027,Dr. Suresh Bose,Pulmonologist,Respiratory,Care Hospital,Rajasthan,West,MCI-53404,Y,2024-01-01,9999-12-31,Y,1
+DOC-0028,Dr. Neha Das,Pulmonologist,Respiratory,Max Hospital,Delhi,North,MCI-44795,Y,2024-01-01,9999-12-31,Y,1
+DOC-0029,Dr. Asha Rao,Pulmonologist,Respiratory,Kokilaben Hospital,Delhi,North,MCI-51114,Y,2024-01-01,9999-12-31,Y,1
+DOC-0030,Dr. Dinesh Mehta,Pulmonologist,Respiratory,Columbia Asia Hospital,West Bengal,East,MCI-43386,Y,2024-01-01,9999-12-31,Y,1
+DOC-0031,Dr. Ramesh Bose,Gastroenterologist,Gastro,Apollo Hospital,Punjab,North,MCI-97900,Y,2024-01-01,9999-12-31,Y,1
+DOC-0032,Dr. Amit Reddy,Gastroenterologist,Gastro,Columbia Asia Hospital,Andhra Pradesh,South,MCI-91678,Y,2024-01-01,9999-12-31,Y,1
+DOC-0033,Dr. Ramesh Nair,Gastroenterologist,Gastro,Max Hospital,Maharashtra,West,MCI-97410,Y,2024-01-01,9999-12-31,Y,1
+DOC-0034,Dr. Meena Bose,Gastroenterologist,Gastro,Columbia Asia Hospital,Bihar,East,MCI-26683,Y,2024-01-01,9999-12-31,Y,1
+DOC-0035,Dr. Neha Mishra,Gastroenterologist,Gastro,Columbia Asia Hospital,Kerala,South,MCI-84593,Y,2024-01-01,9999-12-31,Y,1
+DOC-0036,Dr. Rajesh Nair,Gastroenterologist,Gastro,Care Hospital,Goa,West,MCI-47606,Y,2024-01-01,9999-12-31,Y,1
+DOC-0037,Dr. Lata Reddy,Gastroenterologist,Gastro,Kokilaben Hospital,Kerala,South,MCI-70946,Y,2024-01-01,9999-12-31,Y,1
+DOC-0038,Dr. Ramesh Kapoor,Gastroenterologist,Gastro,AIIMS Hospital,Jharkhand,East,MCI-32241,Y,2024-01-01,9999-12-31,Y,1
+DOC-0039,Dr. Lata Reddy,Gastroenterologist,Gastro,Care Hospital,Haryana,North,MCI-22240,Y,2024-01-01,9999-12-31,Y,1
+DOC-0040,Dr. Sanjay Gupta,Gastroenterologist,Gastro,AIIMS Hospital,Andhra Pradesh,South,MCI-13201,Y,2024-01-01,9999-12-31,Y,1
+DOC-0041,Dr. Lata Singh,Pediatrician,Pediatrics,Narayana Hospital,UP,North,MCI-69692,Y,2024-01-01,9999-12-31,Y,1
+DOC-0042,Dr. Rekha Iyer,Pediatrician,Pediatrics,Columbia Asia Hospital,Odisha,East,MCI-41979,Y,2024-01-01,9999-12-31,Y,1
+DOC-0043,Dr. Asha Shah,Pediatrician,Pediatrics,Fortis Hospital,Tamil Nadu,South,MCI-33053,Y,2024-01-01,9999-12-31,Y,1
+DOC-0044,Dr. Pooja Shah,Pediatrician,Pediatrics,Apollo Hospital,Chhattisgarh,Central,MCI-25906,Y,2024-01-01,9999-12-31,Y,1
+DOC-0045,Dr. Ramesh Bose,Pediatrician,Pediatrics,Narayana Hospital,Odisha,East,MCI-88047,Y,2024-01-01,9999-12-31,Y,1
+DOC-0046,Dr. Ramesh Pillai,Pediatrician,Pediatrics,Kokilaben Hospital,Goa,West,MCI-81810,Y,2024-01-01,9999-12-31,Y,1
+DOC-0047,Dr. Manoj Verma,Pediatrician,Pediatrics,Narayana Hospital,Odisha,East,MCI-42406,Y,2024-01-01,9999-12-31,Y,1
+DOC-0048,Dr. Ravi Desai,Pediatrician,Pediatrics,AIIMS Hospital,Goa,West,MCI-20155,Y,2024-01-01,9999-12-31,Y,1
+DOC-0049,Dr. Arun Reddy,Pediatrician,Pediatrics,Max Hospital,Gujarat,West,MCI-80798,Y,2024-01-01,9999-12-31,Y,1
+DOC-0050,Dr. Kavita Iyer,Pediatrician,Pediatrics,Medanta Hospital,UP,North,MCI-30028,Y,2024-01-01,9999-12-31,Y,1
+DOC-0051,Dr. Asha Reddy,Neurologist,Neurology,Columbia Asia Hospital,Tamil Nadu,South,MCI-81121,Y,2024-01-01,2025-12-31,N,1
+DOC-0052,Dr. Sanjay Pillai,Neurologist,Neurology,Apollo Hospital,Jharkhand,East,MCI-61049,Y,2024-01-01,9999-12-31,Y,1
+DOC-0053,Dr. Dinesh Iyer,Neurologist,Neurology,Apollo Hospital,Telangana,Central,MCI-72518,Y,2024-01-01,9999-12-31,Y,1
+DOC-0054,Dr. Suresh Pillai,Neurologist,Neurology,Max Hospital,Haryana,North,MCI-80545,Y,2024-01-01,9999-12-31,Y,1
+DOC-0055,Dr. Rekha Shah,Neurologist,Neurology,AIIMS Hospital,Telangana,Central,MCI-45774,Y,2024-01-01,9999-12-31,Y,1
+DOC-0056,Dr. Suresh Reddy,Neurologist,Neurology,Apollo Hospital,Jharkhand,East,MCI-97670,Y,2024-01-01,9999-12-31,Y,1
+DOC-0057,Dr. Vikram Mishra,Neurologist,Neurology,Narayana Hospital,Odisha,East,MCI-80008,Y,2024-01-01,9999-12-31,Y,1
+DOC-0058,Dr. Dinesh Sharma,Neurologist,Neurology,Kokilaben Hospital,Punjab,North,MCI-21003,Y,2024-01-01,9999-12-31,Y,1
+DOC-0059,Dr. Neha Patel,Neurologist,Neurology,Narayana Hospital,Odisha,East,MCI-44099,Y,2024-01-01,9999-12-31,Y,1
+DOC-0060,Dr. Manoj Reddy,Neurologist,Neurology,AIIMS Hospital,Bihar,East,MCI-54236,Y,2024-01-01,9999-12-31,Y,1
+DOC-0061,Dr. Ravi Singh,General Physician,All,Columbia Asia Hospital,Bihar,East,MCI-71644,Y,2024-01-01,9999-12-31,Y,1
+DOC-0062,Dr. Kavita Singh,General Physician,All,Manipal Hospital,Delhi,North,MCI-95426,Y,2024-01-01,2025-12-31,N,1
+DOC-0063,Dr. Sanjay Sharma,General Physician,All,AIIMS Hospital,Delhi,North,MCI-91439,Y,2024-01-01,9999-12-31,Y,1
+DOC-0064,Dr. Rekha Kumar,General Physician,All,Medanta Hospital,Karnataka,South,MCI-83920,Y,2024-01-01,9999-12-31,Y,1
+DOC-0065,Dr. Deepa Joshi,General Physician,All,Max Hospital,Kerala,South,MCI-89415,Y,2024-01-01,9999-12-31,Y,1
+DOC-0066,Dr. Neha Nair,General Physician,All,Fortis Hospital,Telangana,Central,MCI-24168,Y,2024-01-01,9999-12-31,Y,1
+DOC-0067,Dr. Dinesh Iyer,General Physician,All,Max Hospital,MP,Central,MCI-61990,Y,2024-01-01,9999-12-31,Y,1
+DOC-0068,Dr. Kavita Kumar,General Physician,All,Kokilaben Hospital,Tamil Nadu,South,MCI-49529,Y,2024-01-01,9999-12-31,Y,1
+DOC-0069,Dr. Priya Rao,General Physician,All,Kokilaben Hospital,MP,Central,MCI-79827,Y,2024-01-01,9999-12-31,Y,1
+DOC-0070,Dr. Ramesh Reddy,General Physician,All,Fortis Hospital,Bihar,East,MCI-11658,Y,2024-01-01,9999-12-31,Y,1
+DOC-0071,Dr. Asha Rao,General Physician,All,Fortis Hospital,Jharkhand,East,MCI-93307,Y,2024-01-01,2025-12-31,N,1
+DOC-0072,Dr. Neha Malhotra,General Physician,All,Columbia Asia Hospital,Odisha,East,MCI-95256,Y,2024-01-01,9999-12-31,Y,1
+DOC-0073,Dr. Asha Das,General Physician,All,Narayana Hospital,Goa,West,MCI-45179,Y,2024-01-01,9999-12-31,Y,1
+DOC-0074,Dr. Ravi Desai,General Physician,All,Fortis Hospital,Gujarat,West,MCI-41963,Y,2024-01-01,9999-12-31,Y,1
+DOC-0075,Dr. Rajesh Kapoor,General Physician,All,Manipal Hospital,Jharkhand,East,MCI-52600,Y,2024-01-01,9999-12-31,Y,1
+DOC-0076,Dr. Deepa Verma,Internist,All,AIIMS Hospital,Kerala,South,MCI-54608,Y,2024-01-01,9999-12-31,Y,1
+DOC-0077,Dr. Rajesh Malhotra,Internist,All,Care Hospital,Rajasthan,West,MCI-35042,Y,2024-01-01,9999-12-31,Y,1
+DOC-0078,Dr. Rekha Bose,Internist,All,Columbia Asia Hospital,UP,North,MCI-41499,Y,2024-01-01,2025-12-31,N,1
+DOC-0079,Dr. Rajesh Singh,Internist,All,Narayana Hospital,Jharkhand,East,MCI-48566,Y,2024-01-01,9999-12-31,Y,1
+DOC-0080,Dr. Meena Das,Internist,All,AIIMS Hospital,Kerala,South,MCI-58368,Y,2024-01-01,9999-12-31,Y,1
+DOC-0081,Dr. Pooja Reddy,Internist,All,Columbia Asia Hospital,Bihar,East,MCI-56112,Y,2024-01-01,9999-12-31,Y,1
+DOC-0082,Dr. Ravi Shah,Internist,All,Max Hospital,Bihar,East,MCI-25814,Y,2024-01-01,9999-12-31,Y,1
+DOC-0083,Dr. Pooja Joshi,Internist,All,Fortis Hospital,Andhra Pradesh,South,MCI-35105,Y,2024-01-01,9999-12-31,Y,1
+DOC-0084,Dr. Dinesh Malhotra,Internist,All,Max Hospital,Kerala,South,MCI-88222,Y,2024-01-01,9999-12-31,Y,1
+DOC-0085,Dr. Meena Shah,Internist,All,AIIMS Hospital,Maharashtra,West,MCI-57301,Y,2024-01-01,9999-12-31,Y,1
+DOC-0086,Dr. Pooja Gupta,Internist,All,Apollo Hospital,Andhra Pradesh,South,MCI-45954,Y,2024-01-01,9999-12-31,Y,1
+DOC-0087,Dr. Meena Gupta,Internist,All,Care Hospital,Delhi,North,MCI-93606,Y,2024-01-01,9999-12-31,Y,1
+DOC-0088,Dr. Dinesh Nair,Internist,All,Apollo Hospital,West Bengal,East,MCI-71524,Y,2024-01-01,9999-12-31,Y,1
+DOC-0089,Dr. Neha Patel,Internist,All,Manipal Hospital,Jharkhand,East,MCI-43092,Y,2024-01-01,9999-12-31,Y,1
+DOC-0090,Dr. Suresh Kapoor,Internist,All,Fortis Hospital,West Bengal,East,MCI-19710,Y,2024-01-01,9999-12-31,Y,1
+DOC-0071,Dr. Asha Rao,General Physician,All,AIIMS Hospital,Jharkhand,East,MCI-93307,Y,2026-01-01,9999-12-31,Y,2
+DOC-0062,Dr. Kavita Singh,General Physician,All,AIIMS Hospital,Delhi,North,MCI-95426,Y,2026-01-01,9999-12-31,Y,2
+DOC-0051,Dr. Asha Reddy,Neurologist,Neurology,Max Hospital,Tamil Nadu,South,MCI-81121,Y,2026-01-01,9999-12-31,Y,2
+DOC-0078,Dr. Rekha Bose,Internist,All,Narayana Hospital,UP,North,MCI-41499,Y,2026-01-01,9999-12-31,Y,2
+DOC-0015,Dr. Sanjay Verma,Diabetologist,Diabetes,Manipal Hospital,Gujarat,West,MCI-76244,Y,2026-01-01,9999-12-31,Y,2
+DOC-0200,Dr. Asha Iyer,Diabetologist,Diabetes,Care Hospital,Rajasthan,West,MCI-70276,Y,2026-01-01,9999-12-31,Y,1
+DOC-0201,Dr. Ravi Mehta,Internist,All,Medanta Hospital,Tamil Nadu,South,MCI-93090,Y,2026-01-01,9999-12-31,Y,1
+DOC-0202,Dr. Pooja Singh,Pulmonologist,Respiratory,Manipal Hospital,MP,Central,MCI-48403,Y,2026-01-01,9999-12-31,Y,1
+DOC-0203,Dr. Rajesh Desai,Diabetologist,Diabetes,Narayana Hospital,West Bengal,East,MCI-56354,Y,2026-01-01,9999-12-31,Y,1
+DOC-0204,Dr. Meena Verma,Cardiologist,Cardiology,Care Hospital,Goa,West,MCI-79131,Y,2026-01-01,9999-12-31,Y,1
+DOC-0205,Dr. Kavita Gupta,Internist,All,Medanta Hospital,MP,Central,MCI-71683,Y,2026-01-01,9999-12-31,Y,1
+DOC-0206,Dr. Rekha Iyer,General Physician,All,Apollo Hospital,Goa,West,MCI-64152,Y,2026-01-01,9999-12-31,Y,1
+DOC-0207,Dr. Sunita Reddy,Neurologist,Neurology,Max Hospital,MP,Central,MCI-35354,Y,2026-01-01,9999-12-31,Y,1
+DOC-0208,Dr. Suresh Malhotra,Diabetologist,Diabetes,Narayana Hospital,UP,North,MCI-75987,Y,2026-01-01,9999-12-31,Y,1
+DOC-0209,Dr. Kavita Patel,General Physician,All,Narayana Hospital,Chhattisgarh,Central,MCI-10349,Y,2026-01-01,9999-12-31,Y,1
