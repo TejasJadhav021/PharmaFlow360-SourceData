@@ -1,9 +1,0 @@
-CAMPAIGN_ID,CAMPAIGN_NAME,TARGET_CATEGORY,START_DATE,END_DATE,SALES_BOOST_FACTOR
-CAMP-01,Heart Health Awareness,Cardiology,2025-02-01,2025-02-28,1.35
-CAMP-02,Diabetes Prevention Drive,Diabetes,2025-04-01,2025-04-30,1.4
-CAMP-03,Antibiotic Awareness Week,Antibiotics,2025-11-01,2025-11-30,1.25
-CAMP-04,Winter Wellness Campaign,Respiratory,2025-12-01,2025-12-31,1.45
-CAMP-05,Gut Health Month,Gastro,2025-06-01,2025-06-30,1.3
-CAMP-06,Vitamin D Awareness,Vitamins,2025-09-01,2025-09-30,1.2
-CAMP-07,Child Health Initiative,Pediatrics,2025-07-01,2025-07-31,1.3
-CAMP-08,Brain Health Drive,Neurology,2025-10-01,2025-10-31,1.25
